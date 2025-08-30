@@ -9,7 +9,7 @@ This project demonstrates a complete **data analytics workflow** using a bike sa
 
 ## 📈 Tableau Dashboard  
 
-🔗[Tableau Public](https://public.tableau.com/app/profile/bianca.florencia.tortore/viz/BikesSalesAnalysis_17565634017120/SalesDashboard?publish=yes)
+- [TableauPublic](https://public.tableau.com/app/profile/bianca.florencia.tortore/viz/BikesSalesAnalysis_17565634017120/SalesDashboard?publish=yes)
 - **File:** `tableau/Bikes%20Sales.twb`  
 - **Screenshot:** `tableau/Dashboard.png`
 
